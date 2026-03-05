@@ -1,0 +1,3 @@
+Git versiya idareetme sistemidir.
+Branch layiheni rahat idare etmeye komek edir.
+GitHub kod paylasmaq ucundur.
